@@ -11,20 +11,20 @@ https://www.awwwards.com/websites/sites_of_the_year/ <br>
 
 
 ### APIs:
-https://github.com/TrulsZK/home-assistant_travelmagic?tab=readme-ov-file
-https://apiposakt.travelplanner.no/api/JourneyProgress/all
-https://bilder.ngdata.no/{GTIN}/large.jpg
-https://stockfish.online/
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact&langs_count=7
-https://developer.apple.com/maps/
+https://github.com/TrulsZK/home-assistant_travelmagic?tab=readme-ov-file <br>
+https://apiposakt.travelplanner.no/api/JourneyProgress/all <br>
+https://bilder.ngdata.no/{GTIN}/large.jpg <br>
+https://stockfish.online/ <br>
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact&langs_count=7 <br>
+https://developer.apple.com/maps/ <br>
 
 
 ### CTF tools:
-https://www.aperisolve.com/
-https://www.dcode.fr/cipher-identifier
-https://attack.mitre.org/
+https://www.aperisolve.com/ <br>
+https://www.dcode.fr/cipher-identifier <br>
+https://attack.mitre.org/ <br>
 
 
 ### Learning:
-https://code.visualstudio.com/api/get-started/your-first-extension
-https://blog.postman.com/how-to-create-a-rest-api-with-node-js-and-express/
+https://code.visualstudio.com/api/get-started/your-first-extension <br>
+https://blog.postman.com/how-to-create-a-rest-api-with-node-js-and-express/ <br>
