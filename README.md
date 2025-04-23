@@ -4,9 +4,9 @@ List of useful developer tools
 
 
 ### Inspiration:
-https://www.awwwards.com/websites/sites_of_the_day/
-https://www.awwwards.com/websites/sites_of_the_month/
-https://www.awwwards.com/websites/sites_of_the_year/
+https://www.awwwards.com/websites/sites_of_the_day/ <br>
+https://www.awwwards.com/websites/sites_of_the_month/ <br>
+https://www.awwwards.com/websites/sites_of_the_year/ <br>
 
 
 ### APIs:
