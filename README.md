@@ -2,6 +2,7 @@
 
 List of useful developer tools
 
+<input>
 
 ### Inspiration:
 https://www.awwwards.com/websites/sites_of_the_day/ <br>
