@@ -9,11 +9,12 @@ https://www.awwwards.com/websites/sites_of_the_day/ <br>
 https://www.awwwards.com/websites/sites_of_the_month/ <br>
 https://www.awwwards.com/websites/sites_of_the_year/ <br>
 
-# UI Libraries (React)
+### UI Libraries (React)
 
 https://www.reactbits.dev/ <br>
 https://magicui.design/ <br>
 https://www.heroui.com/ <br>
+
 
 ### APIs:
 https://github.com/TrulsZK/home-assistant_travelmagic?tab=readme-ov-file <br>
